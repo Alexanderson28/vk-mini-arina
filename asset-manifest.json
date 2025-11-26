@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vk-mini-arina/static/css/main.882f834f.css",
-    "main.js": "/vk-mini-arina/static/js/main.d7970385.js",
+    "main.js": "/vk-mini-arina/static/js/main.cd8814a3.js",
     "index.html": "/vk-mini-arina/index.html",
     "main.882f834f.css.map": "/vk-mini-arina/static/css/main.882f834f.css.map",
-    "main.d7970385.js.map": "/vk-mini-arina/static/js/main.d7970385.js.map"
+    "main.cd8814a3.js.map": "/vk-mini-arina/static/js/main.cd8814a3.js.map"
   },
   "entrypoints": [
     "static/css/main.882f834f.css",
-    "static/js/main.d7970385.js"
+    "static/js/main.cd8814a3.js"
   ]
 }
